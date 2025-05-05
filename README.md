@@ -1,2 +1,2 @@
-# LoRa MAILBOX
+# BL Scanner
 
